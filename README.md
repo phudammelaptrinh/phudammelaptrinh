@@ -1,78 +1,103 @@
-<!-- GitHub Profile README for: phudammelaptrinh -->
+<!--
+  Profile README for: phudammelaptrinh
+  Style: clean + dark-friendly + centered layout
+-->
+
 <div align="center">
 
-# 🚀 Hồ Trường Minh Phú | Full-Stack Developer & BA Enthusiast
+# 👋 Hi, I'm **Hồ Phú**
 
-![Profile Views](https://komarev.com/ghpvc/?username=phudammelaptrinh&style=flat-square&color=blue)
+Student @ **Industrial University of Ho Chi Minh City**  
+Full-Stack Dev (PHP/JS/Java) · Aspiring **Business Analyst**
 
----
-
-## 👤 About Me
-🎓 Student @ **Industrial University of Ho Chi Minh City**  
-💻 Full-Stack Developer (PHP · JS · Java)  
-📊 Aspiring **Business Analyst**  
-📧 Contact: phudammelaptrinh@gmail.com  
-
----
-
-## 📊 GitHub Overview
-![Stats](https://github-readme-stats.vercel.app/api?username=phudammelaptrinh&show_icons=true&theme=radical)  
-![Streak](https://streak-stats.demolab.com?user=phudammelaptrinh&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phudammelaptrinh&layout=compact&theme=radical)
-
----
-
-## ⚡ Recent Activity
-<!--START_SECTION:activity-->
-1. 💻 Working on **Code Nexus (Book Rental Website)**  
-2. 🏘️ Building **Phongtro123 Crawler with MongoDB**  
-3. 🛒 Developing **E-commerce REST API (Express + MySQL + JWT)**  
-4. 📊 Analyzing data with **PySpark & Power BI**  
-<!--END_SECTION:activity-->
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-
-**Databases & Tools**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
----
-
-## 📌 Highlight Projects
-🔹 **Code Nexus** – Online Book Rental Website (PHP + MySQL)  
-🔹 **Phongtro123 Crawler** – Scrapy + MongoDB Pipeline  
-🔹 **E-commerce REST API** – ExpressJS + MySQL + JWT Auth  
-🔹 **Data Mining** – Weka & PySpark for ML/Data Analysis  
-
----
-
-## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%E1%BB%93-ph%C3%BA-08658a293/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%E1%BB%93-ph%C3%BA-08658a293/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/phudammelaptrinh)
-
----
-
-## 🐍 My Contributions Snake
-![snake gif](https://github.com/phudammelaptrinh/phudammelaptrinh/blob/output/github-contribution-grid-snake.svg)
-
----
-
-⭐️ _“Coding is my passion, but solving problems is my purpose.”_
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phuho22112003@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=phudammelaptrinh&color=7f5af0&style=flat)
 
 </div>
+
+---
+
+## 🔭 What I’m focusing on
+- Building solid **PHP/Laravel** backends + **React/Tailwind** frontends  
+- Practicing **system design** & **SQL** (MySQL/Postgres)  
+- Learning **Spring Boot** + **BA** tools (UML/BPMN, user stories)
+
+---
+
+## 🧰 Tech Stack
+
+### 🎨 Frontend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="38" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript"/>
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="38" alt="Laravel"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38" alt="ExpressJS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="38" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="Java"/>
+</p>
+
+### 🗄️ Database
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL"/>
+</p>
+
+### 🛠️ Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="38" alt="Power BI"/>
+</p>
+
+---
+
+## 📈 Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phudammelaptrinh&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phudammelaptrinh&layout=compact&theme=radical&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=phudammelaptrinh&theme=radical&hide_border=true" height="190" />
+</p>
+
+---
+
+## 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=phudammelaptrinh&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
+</p>
+
+---
+
+## ⌨️ Fun Typing
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=600&color=F777FF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Business+Analyst;Always+Learning+New+Things" />
+</p>
+
+---
+
+## 🐍 Snake Contributions
+<p align="center">
+  <img src="https://raw.githubusercontent.com/phudammelaptrinh/phudammelaptrinh/output/snake-dark.svg#gh-dark-mode-only" alt="Snake dark"/>
+  <img src="https://raw.githubusercontent.com/phudammelaptrinh/phudammelaptrinh/output/snake-light.svg#gh-light-mode-only" alt="Snake light"/>
+</p>
+
+---
+
+## 💬 Contact
+- 📧 **Email**: phuho22112003@gmail.com  
+- 🔗 **LinkedIn**: [linkedin.com/in/h%E1%BB%93-ph%C3%BA-08658a293](https://www.linkedin.com/in/h%E1%BB%93-ph%C3%BA-08658a293/)  
+- 🐙 **GitHub**: [github.com/phudammelaptrinh](https://github.com/phudammelaptrinh)
+
+<!-- End -->
