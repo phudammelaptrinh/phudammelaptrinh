@@ -8,7 +8,7 @@
 # 👋 Hi, I'm **Hồ Phú**
 
 Student @ **Industrial University of Ho Chi Minh City**  
-Full‑Stack Dev (PHP/JS/Java) · Aspiring **Business Analyst**
+Full-Stack Dev (PHP/JS/Java) · Aspiring **Business Analyst**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%E1%BB%93-ph%C3%BA-08658a293/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/phudammelaptrinh)
@@ -27,25 +27,33 @@ Full‑Stack Dev (PHP/JS/Java) · Aspiring **Business Analyst**
 ---
 
 ## 🧰 Tech Stack
+
+### 🎨 Frontend
 <p align="center">
-  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="38" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript"/>
+</p>
+
+### ⚙️ Backend
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="38" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="38" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="38" alt="ExpressJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="38" alt="Spring Boot"/>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="38" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="38" alt="Tailwind"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript"/>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <!-- Data -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="38" alt="Java"/>
+</p>
+
+### 🗄️ Database
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="38" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL"/>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <!-- Tools -->
+</p>
+
+### 🛠️ Tools
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="38" alt="Power BI"/>
@@ -83,19 +91,6 @@ Full‑Stack Dev (PHP/JS/Java) · Aspiring **Business Analyst**
 <p align="center">
   <img src="https://raw.githubusercontent.com/phudammelaptrinh/phudammelaptrinh/output/snake-dark.svg#gh-dark-mode-only" alt="Snake dark"/>
   <img src="https://raw.githubusercontent.com/phudammelaptrinh/phudammelaptrinh/output/snake-light.svg#gh-light-mode-only" alt="Snake light"/>
-</p>
-
----
-
-## 📌 Featured Projects
-<!-- Replace repo names below with your real repos -->
-<p align="center">
-  <a href="https://github.com/phudammelaptrinh/<REPO_1>">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phudammelaptrinh&repo=<REPO_1>&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/phudammelaptrinh/<REPO_2>">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=phudammelaptrinh&repo=<REPO_2>&theme=radical&hide_border=true" />
-  </a>
 </p>
 
 ---
