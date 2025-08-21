@@ -1,4 +1,4 @@
-<!--
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ad6193dd-4f6f-4d53-bf98-9f2f0d079011" /><!--
   Profile README for: phudammelaptrinh
   Style: clean + dark-friendly + centered layout
 -->
@@ -56,7 +56,7 @@ Full-Stack Dev (PHP/JS/Java) · Aspiring **Business Analyst**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="38" alt="Power BI"/>
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&labelColor=1f1f1f)
 </p>
 
 ---
