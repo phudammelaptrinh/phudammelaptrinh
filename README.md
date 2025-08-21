@@ -95,6 +95,15 @@ Full-Stack Dev (PHP/JS/Java) · Aspiring **Business Analyst**
 
 ---
 
+### 🎧 Music Vibes
+<p align="center">
+  <img src="https://media.giphy.com/media/4KzpjLvTgYJuk/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300"/>
+</p>
+
+---
+
 ## 💬 Contact
 - 📧 **Email**: phuho22112003@gmail.com  
 - 🔗 **LinkedIn**: [linkedin.com/in/h%E1%BB%93-ph%C3%BA-08658a293](https://www.linkedin.com/in/h%E1%BB%93-ph%C3%BA-08658a293/)  
