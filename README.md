@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Hồ Phú  
 
-💡 Student at **Industrial University of Ho Chi Minh City**.  
-💻 Passionate about Full-Stack Development & Business Analysis.  
-🎯 Goal: Keep learning, building, and growing every single day.  
+💡 Student at **Industrial University of Ho Chi Minh City**  
+💻 Passionate about Full-Stack Development & Business Analysis  
+🎯 Goal: Keep learning, building, and growing every single day  
 
 ---
 
@@ -20,8 +20,28 @@
 
 ---
 
+## 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phudammelaptrinh&theme=radical)](https://git.io/streak-stats)
+
+---
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=phudammelaptrinh&theme=radical&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## ⌨️ Fun Typing
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F700FF&size=22&lines=Full-Stack+Developer;Business+Analyst;Always+Learning+New+Things)
+
+---
+
+## 🐍 Snake Contributions
+![snake gif](https://github.com/phudammelaptrinh/phudammelaptrinh/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=phudammelaptrinh&color=blue)
 
 ---
 
