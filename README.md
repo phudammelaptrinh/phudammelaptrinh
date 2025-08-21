@@ -95,12 +95,13 @@ Full-Stack Dev (PHP/JS/Java) · Aspiring **Business Analyst**
 
 ---
 
-### 🎧 Music Vibes
+## 🎧 Music Vibes
 <p align="center">
-  <img src="https://media.giphy.com/media/4KzpjLvTgYJuk/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="300"/>
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300"/>
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank">
+    <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="300"/>
+  </a>
 </p>
+
 
 ---
 
