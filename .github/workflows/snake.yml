@@ -1,25 +1,27 @@
-
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
-  workflow_dispatch:     
+    - cron: "0 0 * * *"   # chạy mỗi ngày
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v3
 
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
           github_user_name: phudammelaptrinh
-          outputs: dist/snake.svg
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
 
-      - name: Push Snake to output branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
