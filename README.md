@@ -56,7 +56,7 @@ Full-Stack Dev (PHP/JS/Java) · Aspiring **Business Analyst**
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="38" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git"/>
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&labelColor=1f1f1f)
+ <img src="https://cdn.simpleicons.org/powerbi?color=F2C811" height="38" alt="Power BI"/>
 </p>
 
 ---
