@@ -36,7 +36,9 @@
 ---
 
 ## 🐍 Snake Contributions
-![snake gif](https://github.com/phudammelaptrinh/phudammelaptrinh/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake dark](https://github.com/phudammelaptrinh/phudammelaptrinh/blob/output/snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake light](https://github.com/phudammelaptrinh/phudammelaptrinh/blob/output/snake-light.svg#gh-light-mode-only)
+
 
 ---
 
