@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # chạy mỗi ngày
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # chạy mỗi ngày 00:00 UTC
+  workflow_dispatch:       # cho phép bấm Run workflow thủ công
+
+permissions:
+  contents: write          # cần quyền để push branch 'output'
 
 jobs:
   build:
@@ -16,10 +19,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: phudammelaptrinh
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-            dist/snake-light.svg?palette=github-light
+          outputs: dist/snake.svg  # trước test 1 file cho chắc
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3
